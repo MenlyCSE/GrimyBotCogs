@@ -1,0 +1,16 @@
+discord==1.7.3
+bs4==0.0.1
+pymongo==3.12.0
+modules==1.0.0
+pysafebrowsing==0.1.1
+timeout==0.1.2
+backend==0.2.4.1
+youtube-dl==2021.6.6
+emoji==1.2.0
+pycog3==0.1.27
+pip==21.1.3
+google==3.0.0
+flask==2.0.1
+discord-components==1.1.4
+datetime==4.3
+aiosqlite==0.17.0
