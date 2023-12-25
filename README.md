@@ -1,5 +1,5 @@
 # Grïmy - Discord Server Manager 
-Grïmy is an AI bot made with Discord's python library.
+Grïmy is an AI made with Discord's python library.
 
 
 > [!NOTE]
