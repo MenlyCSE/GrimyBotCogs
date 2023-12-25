@@ -3,4 +3,4 @@ Grïmy is an AI bot made with Discord's python library.
 
 
 > [!NOTE]
-> something about the original owner... 
+> You can find the project owner via [Inculpable/github](https://github.com/Inculpable/Grimy-Bot)
