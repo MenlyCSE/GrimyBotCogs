@@ -1,7 +1,7 @@
 # Grïmy - Discord Server Manager 
 Grïmy is an AI made with Discord's python library.
 
-![GrimyInfographic](https://github.com/MenlyCSE/GrimyBotCogs/assets/154091778/00131c3d-cf11-4ea0-a00c-fe56ec8a866d)
+![GrimyBotInfographic](https://github.com/MenlyCSE/GrimyBotCogs/assets/154091778/76c494e7-1a44-4b59-a03f-d43203a1b695)
 
 > [!NOTE]
 > You can find the project owner via [Inculpable/github](https://github.com/Inculpable/Grimy-Bot)
